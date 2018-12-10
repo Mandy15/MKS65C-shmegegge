@@ -1,4 +1,4 @@
-all:
+all: shmegegge shmegegge.o
 	gcc -o shmegegge shmegegge.o
 
 shmegegge.o: shmegegge.c
